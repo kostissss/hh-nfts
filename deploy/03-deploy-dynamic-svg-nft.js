@@ -14,10 +14,10 @@ module.exports = async function ({ getNamedAccounts, deployments }) {
     } else {
         ethUsdPriceFeedAddress = networkConfig[chainId].ethUsdPriceFeed
     }
-    const lowSVG = fs.readFileSync("../images/dynamicNft/frown.svg", {
+    const lowSVG = fs.readFileSync("./images/dynamicNft/frown.svg", {
         encoding: "utf8",
     })
-    const highSVG = fs.readFileSync("../images/dynamicNft/happy.svg", {
+    const highSVG = fs.readFileSync("./images/dynamicNft/happy.svg", {
         encoding: "utf8",
     })
 

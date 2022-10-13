@@ -829,8 +829,8 @@
       ]
     },
     "/home/kostis/demos/hh-nft/contracts/DynamicSvgNft.sol": {
-      "lastModificationDate": 1665407022627,
-      "contentHash": "1a801398498884add05f7e71eb9f53ee",
+      "lastModificationDate": 1665691154051,
+      "contentHash": "29f66126b7ffde500d1b6307fb946ee8",
       "sourceName": "contracts/DynamicSvgNft.sol",
       "solcConfig": {
         "version": "0.8.8",
